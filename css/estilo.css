@@ -17,3 +17,8 @@
 .imagen-rounded{
   border-radius: 6px;
 }
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
