@@ -5,18 +5,6 @@
   width: 150px;
 
 }
-.contenid{
-  margin-top: 30px;
-}
-@media (min-width: 576px) {
-  .logo-imagen{
-    text-align: center;
-  }
-}
-
-.imagen-rounded{
-  border-radius: 6px;
-}
 .center-block {
   display: block;
   margin-left: auto;
